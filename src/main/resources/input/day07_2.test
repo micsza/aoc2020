@@ -1,0 +1,12 @@
+bb bb bags contain 1 cc cc bag, 1 dd dd bag.
+cc cc bags contain 1 ff ff bag.
+shiny gold bags contain 1 uu uu bag.
+dd dd bags contain 1 hh hh bag, 1 shiny gold bag.
+ff ff bags contain 1 shiny gold bag, 1 hh hh bag, 1 ss ss bag.
+gg gg bags contain 1 dd dd bag, 1 bb bb bag.
+hh hh bags contain 1 shiny gold bag.
+zz zz bags contain 1 shiny gold bag.
+xx xx bags contain 1 zz zz bag.
+ss ss bags contain 1 shiny gold bag.
+uu uu bags contain no other bags.
+aa aa bags contain 1 bb bb bag, 1 gg gg bag, 1 dd dd bag.
